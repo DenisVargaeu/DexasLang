@@ -65,6 +65,7 @@ DEF pozdrav
   PRINT meno
 END
 CALL pozdrav
+INPUT exit
 ````
 
 ---
