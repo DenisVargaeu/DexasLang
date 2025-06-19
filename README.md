@@ -30,6 +30,7 @@ Hotovo! Teraz môžeš dvojklikom spúšťať `.dex` programy cez tvoj interpret
 ```
 
 dexaslang/
+├── /_internal          ← dll subori pre interpreta (nemazat !!)
 ├── dexaslang.exe       ← Interpreter (vytvorený v Pythone)
 ├── program.dex         ← Ukážkový skript
 ├── README.md           ← Tento návod
